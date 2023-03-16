@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="otp_send_message">We will send you OTP for verification</string>
+</resources>

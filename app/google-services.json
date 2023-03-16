@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032791658775",
+    "project_id": "chat-app-9e99c",
+    "storage_bucket": "chat-app-9e99c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032791658775:android:fae8bb702a320a6be92752",
+        "android_client_info": {
+          "package_name": "com.kishan.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032791658775-kct2fptu29rl8rl904m1plrgu6natejm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz90qETxOFVpvl0dgkRH_Z6SVrnAo_T5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032791658775-kct2fptu29rl8rl904m1plrgu6natejm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
